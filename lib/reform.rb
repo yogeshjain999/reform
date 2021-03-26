@@ -1,6 +1,7 @@
 module Reform
 end
 
+require "representable"
 require "disposable"
 require "reform/contract"
 require "reform/form"
